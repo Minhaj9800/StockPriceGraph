@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlotPanel()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\n\ Overriding\ the\ method\ paintComponent\ for\ our\ project\n\ @param\ Graphics\ g.\n
+comment2.params=width\ points\ i
+comment2.target=int\ translateX(double,\ int,\ int)
+comment2.text=\n\ Know\ the\ translateX\n\ @param\ width\n\ @param\ points\n\ @param\ i\n\ @retunr\ integer\ value\ as\ translateX.\n
+comment3.params=height\ max\ min\ value
+comment3.target=int\ translateY(double,\ int,\ int,\ double)
+comment3.text=\n\ know\ the\ trnaslateY\n\ @param\ height\n\ @param\ max\n\ @param\ min\n\ @param\ value\n\ return\ the\ value\ for\ translateY.\n
+comment4.params=d
+comment4.target=void\ setData(Data)
+comment4.text=\n\ Setter\ method\ for\ data\n\ @param\ d(type\ Data)\n
+comment5.params=numbers
+comment5.target=void\ setPoints(int)
+comment5.text=\n\ setter\ method\ for\ set\ the\ points\n\ @param\ numbers.\n
+numComments=6

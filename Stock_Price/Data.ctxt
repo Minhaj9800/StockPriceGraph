@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=Data(java.io.File)
+comment1.params=file
+comment1.target=java.util.ArrayList\ readFile(java.io.File)
+comment1.text=\n\ Read\ the\ files\ and\ gives\ the\ list\ of\ stored\ numbers\ after\ that.\n\ @param\ file\ \n\ @return\ numberList(an\ ArrayList\ with\ numbers\ type\ double).\n
+comment2.params=numberPoints
+comment2.target=double[]\ getRange(int)
+comment2.text=\n\ Get\ the\ number\ range(Max\ and\ Min)\n\ @param\ numberpoints\n\ @return\ range(type\ double\ max\ or\ min).\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\n\ Get\ the\ size\ of\ the\ numbers(file)\n\ @return\ numbers.size().\n
+comment4.params=i
+comment4.target=double\ getValue(int)
+comment4.text=\n\ Get\ the\ value\ from\ file.\n\ @return\ numbers.get(i);\n
+numComments=5
