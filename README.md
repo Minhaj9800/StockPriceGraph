@@ -1,2 +1,2 @@
 # StockPriceGraph
-This is GUI project for stocking price graph.
+Java Project using standard GUI library
