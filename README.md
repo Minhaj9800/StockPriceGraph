@@ -1,2 +1,2 @@
 # StockPriceGraph
-Java Project using standard GUI library
+Grpahical User Interface(GUI) programming in Java
